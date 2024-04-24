@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vignesh
-- 👀 I’m interested in Full stack development and Machine Learning
-- 🌱 I’m currently learning full stack development
+- 👀 I’m interested in Full stack development.
+- 🌱 I’m currently learning Data Structures and Algorithms and System Design
 - 💞️ I’m looking to collaborate on competitive programming
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Always a great learner
