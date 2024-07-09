@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vignesh
 - 👀 I’m interested in Full stack development.
 - 🌱 I’m currently learning Data Structures and Algorithms and System Design
-- 💞️ I’m looking to collaborate on competitive programming
+- 💞️ I’m looking to collaborate on Competitive programming and Open Source Contribution.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Always a great learner
 
