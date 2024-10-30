@@ -10,5 +10,5 @@ coffee-loves-code-2003/coffee-loves-code-2003 is a ✨ special ✨ repository be
 You can click the Preview link to take a look at your changes.
 --->
 
-Doing Hacktoberfest 2024
+HacktoberFest Contribution 2024
 [![An image of @coffeelovescode2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coffeelovescode2003)](https://holopin.io/@coffeelovescode2003)
